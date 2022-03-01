@@ -8,7 +8,7 @@ Thinkrchive - Multiplatform is an Android & Desktop app that shows specification
 
 This app will also be documented heavily so that it can help anyone else in the future that is trying to get into Kotlin Multiplatform to support Android and Desktop via [Compose Multiplatform](https://www.jetbrains.com/lp/compose-mpp/)
 
-> This repo is a Mutliplatform version of the initial [Thinkrchive](https://github.com/racka98/ThinkRchive) which was Android only
+> This project is a Mutliplatform version of the initial [Thinkrchive](https://github.com/racka98/ThinkRchive) which was Android only
 
 | Light | Dark |
 |-------|------|
